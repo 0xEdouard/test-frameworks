@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+    <nav>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="admin.html">Administration</a>
+            </li>
+        </ul>
+    </nav>
+    <div class="page-header">
+        <h1 class="pt-4">A blog about "Lorem Ipsum"</h1>
+        <hr/>
+    </div>
+
+    <div id="alerts" style="position:fixed; bottom: 0px; left: 0px; width: 100%; z-index:9999; border-radius:0px;"></div>
+
+    <div class="row">
+        <main class="col-md-9">
+            <!-- fetch all posts from server -->
+           
+
+        </main>
+        <aside class="col-md-3">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Search</h5>
+                    <div class="input-group">
+                        <input id="search" type="text" class="form-control" placeholder="Search for..." aria-label="Search for...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-secondary" type="button" onclick="search()">Go!</button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Popular Categories</h5>
+                    <ul>
+                        <li><a href="#">Lorem</a></li>
+                        <li><a href="#">Ipsum</a></li>
+                        <li><a href="#">Text</a></li>
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+
+</div>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="index.js" defer></script>
+</body>
+</html>
