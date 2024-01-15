@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Labo09_ASPNETMVC.Models.NewsMessage>
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<section class="clearfix">
+    <h2 class="structural">Laatste nieuwsberichten van de academie:</h2>
+
+    <p><a asp-action="Create" class="btn btn-success">@Localizer["Nieuw bericht"]</a></p>
+
+    @if (Model == null || Model.Count<Labo09_ASPNETMVC.Models.NewsMessage>() == 0)
+    {
+        <div>
+            <p>@ViewData["emptyMessage"]</p>
+        </div>
+    }
+    else
+    {
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li>
+                    <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+                    @if (item.Id > 3)
+                    {
+                        <img src="/images/news/dummy.jpg" alt="newsmessage" width="300" height="135" />
+                    }
+                    else
+                    {
+                        <img src="/images/news/@(item.Id).jpg" alt="newsmessage" width="300" height="135" />
+                    }
+                    <p>|Toegevoegd op: @Html.DisplayFor(modelItem => item.Date)</p>
+                    <br />
+                    <p>@Html.DisplayFor(modelItem => item.Message)</p>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="readmore">Lees meer.</a>
+                </li>
+            }
+        </ul>
+    }
+    </tbody>
+</table>
+</section>

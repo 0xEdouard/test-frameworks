@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Winkel", "Winkel\Winkel.csproj", "{F4D4E35F-1846-48CF-B394-ACC7F4ED30EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D4E35F-1846-48CF-B394-ACC7F4ED30EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D4E35F-1846-48CF-B394-ACC7F4ED30EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D4E35F-1846-48CF-B394-ACC7F4ED30EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D4E35F-1846-48CF-B394-ACC7F4ED30EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9D066DD-AAB0-4A04-9DBA-4E7229CDDD4C}
+	EndGlobalSection
+EndGlobal

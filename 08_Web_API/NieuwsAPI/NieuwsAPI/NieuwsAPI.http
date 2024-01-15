@@ -1,0 +1,6 @@
+@NieuwsAPI_HostAddress = http://localhost:5152
+
+GET {{NieuwsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,99 @@
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.exe
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.dll.config
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.deps.json
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.runtimeconfig.json
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.pdb
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.csproj.AssemblyReference.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.AssemblyInfoInputs.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.AssemblyInfo.cs
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.csproj.CoreCompileInputs.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\refint\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.pdb
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.genruntimeconfig.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\ref\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks 7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.csproj.CopyComplete
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.exe
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.dll.config
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.deps.json
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.runtimeconfig.json
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.pdb
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.csproj.AssemblyReference.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.AssemblyInfoInputs.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.AssemblyInfo.cs
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.csproj.CoreCompileInputs.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.csproj.CopyComplete
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\refint\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.pdb
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.genruntimeconfig.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2223\Reeks7 - ADO.NET\Winkel\Winkel\obj\Debug\net6.0\ref\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.exe
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.dll.config
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.deps.json
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.runtimeconfig.json
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Winkel.pdb
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.csproj.AssemblyReference.cache
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.AssemblyInfoInputs.cache
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.AssemblyInfo.cs
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.csproj.CoreCompileInputs.cache
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.csproj.CopyComplete
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\refint\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.pdb
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\Winkel.genruntimeconfig.cache
+C:\Users\vongenae\Documents\frameworks\ServerFrameworksOplossingen2324\07_ADO.NET\Winkel\Winkel\obj\Debug\net6.0\ref\Winkel.dll

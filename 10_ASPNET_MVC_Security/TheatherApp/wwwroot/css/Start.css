@@ -1,0 +1,525 @@
+﻿/* -- General -- */
+body > * {
+    font-size: 1.2rem; /* placed here instead of in body -> fix for Chrome bug */
+}
+
+body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+    color: #333;
+    line-height: 1.8rem;
+    overflow-x: hidden;
+}
+
+@font-face {
+    font-family: 'Exo 2';
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Exo 2', sans-serif;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 0.5rem;
+    max-width: 97rem;
+    min-width: 30rem;
+}
+
+a.readmore {
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 1rem;
+    margin-top: 0.5rem;
+    color: #0088cc;
+    background: transparent url(../images/readmore-arrow.png) center right no-repeat;
+}
+
+a:hover.readmore {
+    text-decoration: underline;
+}
+
+
+
+/* -- Header & Menu -- */
+header h1 {
+    background: transparent url(../images/logo.png) no-repeat;
+    width: 24.0rem;
+    height: 7.4rem;
+    margin: 0 auto;
+}
+
+header nav ul li {
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+header nav {
+    margin-top: 3rem;
+    font-size: 1.6rem;
+}
+
+    header nav ul li a {
+        display: block;
+        text-align: center;
+        padding: 0.75rem;
+        color: #c8c600;
+        text-decoration: none;
+        border: 1px solid #c8c600;
+        -webkit-transition: all 0.25s ease-in-out;
+    }
+
+        header nav ul li a.active {
+            color: #eee;
+            background-color: #c8c600;
+            text-decoration: none;
+        }
+
+        header nav ul li a:hover {
+            color: #333;
+            background-color: #c8c600;
+        }
+
+.navbar-nav {
+    display: block !important;
+}
+
+
+
+/* -- Banner -- */
+section#banner {
+    clear: both;
+    width: 100%;
+    height: 37.5rem;
+    background: transparent url(../images/header.jpg) no-repeat center;
+    margin-bottom: 3rem;
+    margin-top: 2rem;
+}
+
+div#slogan {
+    position: absolute;
+    color: #333;
+    margin-top: 10rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 0.5rem;
+}
+
+    div#slogan h2 {
+        font-size: 3.6rem;
+        margin-bottom: 2.5rem;
+    }
+
+    div#slogan p {
+        line-height: 2.1rem;
+        font-size: 1.4rem;
+    }
+
+
+
+/* -- Explorer content -- */
+#content {
+    border-top: 1px solid white;
+    margin-bottom: 3rem;
+}
+
+    #content section h3 {
+        color: #0088cc;
+        font-size: 3rem;
+        margin-bottom: 2.5rem;
+        line-height: 3.6rem;
+        text-align: center;
+    }
+
+    #content section ul li {
+        margin-bottom: 3rem;
+    }
+
+    #content section img {
+        display: block;
+        margin: 0 auto; /* center */
+        width: 100%;
+        max-width: 30rem;
+        margin-bottom: 1rem;
+        border-bottom: 0.3rem #c8c600 solid;
+    }
+
+    /* -- Explorer sessions -- */
+    #content .sessions {
+        border-top: 1px solid white;
+        margin-bottom: 3rem;
+    }
+
+        #content .sessions h3 {
+            color: #0088cc;
+            font-size: 2rem;
+            margin-bottom: 2.5rem;
+            line-height: 3.6rem;
+            text-align: left;
+        }
+
+        #content .sessions ul li {
+            margin-bottom: 3rem;
+        }
+
+        #content .sessions img {
+            display: block;
+            margin-bottom: 1rem;
+            border-bottom: 0.3rem #c8c600 solid;
+        }
+
+/* -- latestnews -- */
+aside {
+    background-color: #e5f7ff;
+    border: 1px solid #0088cc;
+    padding: 2%;
+}
+
+    aside h1 {
+        color: #0088cc;
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
+    }
+
+
+
+/* -- edit panel -- */
+div#beheernieuws {
+    margin: 1.0rem 0 1.0rem 0;
+}
+
+#content h2 {
+    color: #0088cc;
+    font-size: 3rem;
+    margin-bottom: 2.5rem;
+    line-height: 3.6rem;
+}
+
+
+
+/* -- footer -- */
+footer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-top: 0.3rem solid #c8c600 !important;
+}
+
+
+footer div p a {
+    color: #eee;
+    line-height: 1rem;
+    display: inline-block;
+    padding-right: 0.5rem;
+    border-right: 1px solid #eee;
+}
+
+footer div p {
+    color: #ccc;
+    font-size: 1rem;
+}
+
+#lnk_facebook {
+    display: inline-block;
+    border: 0;
+    margin-left: 0.5rem;
+    height: 1.5rem;
+    width: 1.5rem;
+    background-image: url(../images/socialicons.png);
+    background-repeat: no-repeat;
+    background-position: 0rem 0rem;
+}
+
+#lnk_twitter {
+    display: inline-block;
+    border: 0;
+    margin-left: 0.5rem;
+    height: 1.5rem;
+    width: 1.5rem;
+    background-image: url(../images/socialicons.png);
+    background-repeat: no-repeat;
+    background-position: 0rem -6rem;
+}
+
+/* ===========================================
+   Mediaquery 750px 
+   =========================================== */
+
+@media (min-width: 46.875em) {
+
+    /* -- Header & Menu -- */
+    header h1 {
+        margin: 0; /* reset center */
+        float: left;
+    }
+
+    header nav ul li {
+        display: inline-block;
+        margin-left: 1.5rem;
+        margin-bottom: 0rem;
+    }
+
+    header nav {
+        clear: right;
+        float: right;
+    }
+
+        header nav ul li a {
+            display: inline;
+            text-align: left;
+            border: 0px;
+        }
+
+    /* -- Banner -- */
+    div#slogan {
+        position: relative;
+        float: right;
+        max-width: 55rem;
+        margin-right: 40rem;
+        -webkit-animation: slogan-animation 0.7s 1 ease-in-out;
+        -moz-animation: slogan-animation 0.7s 1 ease-in-out;
+        -ms-animation: slogan-animation 0.7s 1 ease-in-out;
+        -o-animation: slogan-animation 0.7s 1 ease-in-out;
+        animation: slogan-animation 0.7s 1 ease-in-out;
+    }
+    /* animation slogan */
+    @-webkit-keyframes slogan-animation {
+        0% {
+            margin-right: -100rem;
+        }
+
+        90% {
+            margin-right: 42rem;
+        }
+
+        100% {
+            margin-right: 40rem;
+        }
+    }
+
+    @-moz-keyframes slogan-animation {
+        0% {
+            margin-right: -100rem;
+        }
+
+        90% {
+            margin-right: 42rem;
+        }
+
+        100% {
+            margin-right: 40rem;
+        }
+    }
+
+    @-ms-keyframes slogan-animation {
+        0% {
+            margin-right: -100rem;
+        }
+
+        90% {
+            margin-right: 42rem;
+        }
+
+        100% {
+            margin-right: 40rem;
+        }
+    }
+
+    @-o-keyframes slogan-animation {
+        0% {
+            margin-right: -100rem;
+        }
+
+        90% {
+            margin-right: 42rem;
+        }
+
+        100% {
+            margin-right: 40rem;
+        }
+    }
+
+    @keyframes slogan-animation {
+        0% {
+            margin-right: -100rem;
+        }
+
+        90% {
+            margin-right: 42rem;
+        }
+
+        100% {
+            margin-right: 40rem;
+        }
+    }
+
+
+    /* -- Explorer content -- */
+    #content section {
+        float: left;
+        width: 70%;
+    }
+
+        #content section h3 {
+            text-align: left; /* reset */
+        }
+
+        #content section ul li {
+            margin-bottom: 0rem; /* reset */
+            float: left;
+            width: 46%;
+            margin-left: 3%;
+        }
+
+    /* -- Explorer sessions -- */
+    #content .sessions {
+        float: left;
+        width: 90%;
+    }
+
+        #content .sessions h3 {
+            text-align: left; /* reset */
+        }
+
+        #content .sessions ul li {
+            margin-bottom: 0; /* reset */
+            float: left;
+            width: 30%;
+            margin-left: 3%;
+        }
+
+    /* -- latestnews -- */
+    #content aside {
+        border: 0rem; /* reset */
+        background: url(../images/latestnews.png); /* overwrite */
+        background-size: 100% 100%;
+        padding-top: 3rem; /* overwrite */
+        padding-bottom: 3rem;
+        width: 25%;
+        margin-left: 5%;
+        float: left;
+    }
+
+    footer {
+        clear: both;
+    }
+}
+
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+    color: #0088cc;
+    background-color: #ddd;
+    width: 47%;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+}
+
+.editor-label {
+    margin: 1em 0 0 0;
+}
+
+.editor-field {
+    margin: 0.5em 0 0 0;
+}
+
+form input {
+    margin: 1.0rem 0 1.0rem 0;
+    display: block;
+}
+
+form label {
+    display: block;
+    text-align: left;
+}
+
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+
+
+/* ===========================================
+   Custom reset
+   =========================================== */
+
+html {
+    font-size: 0.625em;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+fieldset {
+    border: 0;
+}
+
+/* ===========================================
+   Helpers
+   =========================================== */
+
+.structural {
+    position: absolute;
+    left: -9999px;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.ir {
+    display: block;
+    background-size: 100%;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.hidden {
+    position: absolute !important;
+    visibility: hidden !important;
+    z-index: -1 !important;
+}
